@@ -1,0 +1,125 @@
+*
+{
+    background-color: #54BAB9;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#container
+{
+    width: 300px;
+    height: 450px;
+    background-color: #F7ECDE;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#container #searchBox
+{
+    width: 250px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7ECDE;
+}
+
+#searchBox input
+{
+    border: 0;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px 0px 0px 10px;
+    background-color: #E9DAC1;
+    outline: none;
+}
+
+#searchBox input[type=text]
+{
+    padding-left: 20px;
+}
+
+#searchBox button
+{
+    width: 15%;
+    height: 105%;
+    border: 0;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #DF7861;
+    cursor: pointer;
+}
+
+button i
+{
+    background-color: #DF7861;
+}
+
+#container #weatherInformations
+{
+    width: 250px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    background-color: #F7ECDE;
+}
+
+#weatherInformations #cityName
+{
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #F7ECDE;
+}
+
+
+#weatherInformations #weatherIcon
+{
+    width: 250px;
+    height: 150px;
+    background: #F7ECDE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#weatherIcon img
+{
+    width: 130px;
+    background-color: #F7ECDE;
+}
+
+#weatherInformations #weatherDerscription
+{
+    width: 250px;
+    height: 30px;
+    background-color: #F7ECDE;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+#weatherInformations #weatherTemperature
+{
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: #F7ECDE;
+}
