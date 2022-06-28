@@ -1,7 +1,9 @@
 # Weather-App
 shows the weather of your location &amp; you can also search other cities weather
+look at "weather App" with [GitHub Pages](https://hosseinmazhar.github.io/Weather-App/).
 
 ## first look 
-![Capture](https://user-images.githubusercontent.com/91896821/176258084-0c3a7f7a-cbc3-4ff3-b2fa-f91ba1eff4fb.PNG)
+![Capture](https://user-images.githubusercontent.com/91896821/176259342-caffa7bf-5e94-43ae-8ec1-972c82780b02.PNG)
 
-look at "weather App" with [GitHub Pages](https://hosseinmazhar.github.io/Weather-App/).
+
+
