@@ -8,6 +8,6 @@ look at "weather App" with [GitHub Pages](https://hosseinmazhar.github.io/Weathe
 
 ### features
 - get IP of user with "fetch()" and [ipify](https://api.ipify.org)
-- show weather of user with the help of [ipgeolocation](https://ipgeolocation.io/) and [openweathermap](https://openweathermap.org/)
+- show weather of user's location with the help of [ipgeolocation](https://ipgeolocation.io/) and [openweathermap](https://openweathermap.org/)
 - search box to let user knows about every weather in the WORLD!
 
